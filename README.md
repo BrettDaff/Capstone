@@ -1,5 +1,5 @@
 # Capstone
-This Repository holds all of the completed exersises for the Applied Data Science Capstone IBM Course.
+This Repository holds all of the completed exersises for the Applied Data Science Capstone IBM Course. The following tasks were completed to understand how to effectively predict the successful launch and landing of SpaceX rockets. 
 ## Module 1
 Data Colection
 Web Scraping
